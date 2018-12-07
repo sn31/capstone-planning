@@ -29,6 +29,12 @@ This web application will allow users to create xrp accounts on the xrp network 
 * Fiat currency exchange rates from [fixer.io](https://fixer.io/).
 * Crypto exchange rates API from [coinapi.io](https://www.coinapi.io/).
 
+** App structure **
+
+Home page: Logo, navigation bar, headline and introduction video.
+Authentication page: Sign in and sign out forms.
+Account page: User profile, transaction history, account snapshot, transfer currencies.
+
 ## Contact & Support
 
 * Skye Nguyen - @sn31 - skye@dames.es
