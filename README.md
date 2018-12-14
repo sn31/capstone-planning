@@ -35,6 +35,8 @@ Home page: Logo, navigation bar, headline and introduction video.
 Authentication page: Sign in and sign out forms.
 Account page: User profile, transaction history, account snapshot, transfer currencies.
 
+![Screenshot](./src/assets/images/structure.png)
+
 ## Link to static site
 
 https://github.com/sn31/xrp-wallet.git
